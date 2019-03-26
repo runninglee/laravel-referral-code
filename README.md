@@ -1,6 +1,6 @@
-Laravel-Referral-Code
+### Laravel-Referral-Code
 
-Laravel邀请码
+Laravel包生成4位邀请码并支持解码
 
 ### 安装
 
