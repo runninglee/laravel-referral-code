@@ -1,0 +1,21 @@
+{
+    "name": "huilee/laravel-referral-code",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hui Lee",
+            "email": "lihui870920@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "HuiLee\\ReferralCode\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "HuiLee\\ReferralCode\\Tests\\": "tests/"
+        }
+    }
+}
