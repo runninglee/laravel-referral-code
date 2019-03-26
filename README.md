@@ -14,8 +14,8 @@ composer require huilee/laravel-referral-code
 
 ```php
 'providers' => [
-...
-HuiLee\ReferralCode\ReferralCodeServiceProvider::class,
+	...
+	HuiLee\ReferralCode\ReferralCodeServiceProvider::class,
 ]
 ```
 
@@ -33,4 +33,4 @@ HuiLee\ReferralCode\ReferralCodeServiceProvider::class,
     
 ### 说明
 
-本安装包资源全部来源于网络，这里只是安装整合。
+这是一个测试包，资源来源于网络。
